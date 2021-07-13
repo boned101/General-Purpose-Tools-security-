@@ -12,5 +12,6 @@ a collection of tools.
 
 --Double Pulsar Traffic Decryptor is an offshoot from Double Pulsar . But its a nifty tool.
 
+--Sonic Visualizer - does what it says.
 
 Do what you like with these. I will be updating this repo time to time until the day i stop working with computers!
